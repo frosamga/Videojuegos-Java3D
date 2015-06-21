@@ -1,0 +1,16 @@
+El proyecto es una especia de mezcla entre angry birds y un simulador de futbol,
+no esta muy detallado, solo es un ejemplo de lo que he podido hacer con el simulador tema4.
+
+El juego permite mover al jugador de un lado a otro, sin rotacion, solo desplazamiento,
+y permite que este pueda disparar un balon a la estructura del fondo, si el personaje esta lo suficientemente
+cerca del balon, hara un golpe despacio, es decir un pase, si esta mas lejos puede activar la habilidad de golpe fuerte
+lo que hara que este se mueva a una velocidad mucho mayor(similitud al pajaro amarillo de andry birds, a los dos toques va mucho mas fuerte).
+
+No tiene objetivos, solo es una muestra, los controles son:
+
+a-izq;
+d-der;
+w-adelante;
+s-atras;
+barra espaciadora, cerca del balon-golpe flojo;
+barra espaciadora, lejos del balon-activacion golpe fuerte;
